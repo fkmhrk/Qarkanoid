@@ -1,0 +1,5 @@
+# bin folder is generated folder
+bin/*
+
+# gen folder is generated folder
+gen/* 
